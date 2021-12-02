@@ -21,38 +21,41 @@ Here are some ideas to get you started:
 <h4 align="center">🎨I like games and ACG culture ~</h4>
 <hr />
 <h3 align="center">Statistics</h3>
-<div>
+
 <p align="center">
   <img alig src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moiradust" />
 </p>
+  
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiradust&layout=compact" />
+</p>
  
-<span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiradust&layout=compact)](https://github.com/moiradust/github-readme-stats) </span>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<span>[![Moira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moiradust)](https://github.com/moiradust/github-readme-stats)
-</span>
-
-
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api/wakatime?username=moiradust" />
+</p>
+  
 <h3 align="center">Skills</h3>
-<p> --😄 I can use these skills to finish some projects--</P>
-<span>
+<h4 align = "center"> -- 😄 I can use these skills to finish some projects --</h4>
+<div align = "center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" /></span>
-<p> --🌱 I'm currently learning--</p>
-<span>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" /></div>
+<h4 align = "center"> -- 🌱 I'm currently learning --</h4>
+<div align = "center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/spring.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/macos.svg" />
-</span>
-<p> --😄 Other skills--</p>
-<span>
+</div>
+<h4 align = "center"> -- 😄 Other skills --</h4>
+<div align = "center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/markdown.svg" />
-</span>
+</div>
+
 <h3 align="center">Achievements</h3>
 
 <p align="center">
