@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Skills</h3>
-<p> --😄 I can use these technology to finish some projects--</P>
+<p> --😄 I can use these skills to finish some projects--</P>
 <span>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
