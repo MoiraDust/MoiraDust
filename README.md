@@ -47,12 +47,5 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/markdown.svg" />
 </span>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<h3>Achievements</h3>
-
 <hr />
 Feel free to contact me 😋
