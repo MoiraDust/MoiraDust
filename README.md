@@ -10,8 +10,13 @@
 <h3>Statistics</h3>
     
 ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moiradust)
+
+<p>
+  
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=moiradust)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moiradust)
+  
+  </p>
 
 
 
